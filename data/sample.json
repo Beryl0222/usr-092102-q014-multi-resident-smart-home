@@ -1,0 +1,9 @@
+{
+  "event_id": "092102-014-sample-001",
+  "event_type": "MEMBERSHIP_CHANGED",
+  "aggregate_type": "residence_membership",
+  "aggregate_id": "multi_resident_smart_home-001",
+  "occurred_at": "2026-09-20T12:00:00+08:00",
+  "version": 1,
+  "summary": "多住户智能家居裁决领域样例"
+}
