@@ -23,7 +23,8 @@
         "RULE_PUBLISHED",
         "CONFLICT_DETECTED",
         "ACTION_EXECUTED",
-        "CONTROL_TRANSFERRED"
+        "CONTROL_TRANSFERRED",
+        "TELEMETRY_REPORTED"
       ]
     },
     "aggregate_type": {
@@ -32,7 +33,8 @@
         "residence_membership",
         "device_capability",
         "automation_rule",
-        "execution_receipt"
+        "execution_receipt",
+        "control_transfer"
       ]
     },
     "aggregate_id": {

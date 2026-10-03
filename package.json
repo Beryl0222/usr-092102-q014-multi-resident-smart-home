@@ -1,10 +1,11 @@
 {
   "name": "multi-resident-smart-home",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "领域事件基础校验",
+  "description": "多住户智能家居裁决后端（厂商中立）",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "start": "node src/server.js"
   }
 }

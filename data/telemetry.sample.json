@@ -1,0 +1,10 @@
+{
+  "event_id": "092102-014-telemetry-001",
+  "event_type": "TELEMETRY_REPORTED",
+  "aggregate_type": "device_capability",
+  "aggregate_id": "dev_example_leak_sensor",
+  "occurred_at": "2026-10-04T03:00:00+08:00",
+  "version": 1,
+  "summary": "厨房水浸传感器上报：检测到漏水",
+  "detail": { "capability": "sensor.leak", "state": "detected" }
+}
