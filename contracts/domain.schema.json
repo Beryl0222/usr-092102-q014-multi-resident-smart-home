@@ -23,7 +23,8 @@
         "RULE_PUBLISHED",
         "CONFLICT_DETECTED",
         "ACTION_EXECUTED",
-        "CONTROL_TRANSFERRED"
+        "CONTROL_TRANSFERRED",
+        "DEVICE_OBSERVED"
       ]
     },
     "aggregate_type": {

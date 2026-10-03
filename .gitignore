@@ -7,3 +7,5 @@ __pycache__/
 *.py[cod]
 dist/
 coverage/
+data/arbitration.json
+data/arbitration.json.tmp
